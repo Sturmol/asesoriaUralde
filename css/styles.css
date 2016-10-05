@@ -1,2 +1,4 @@
 h1 {
-  border: 1px solid black; }
+  border: 1px solid black;
+  -webkit-filter: blur(20px);
+          filter: blur(20px); }
