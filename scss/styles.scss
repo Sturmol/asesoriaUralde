@@ -1,6 +1,13 @@
 @import "vars";
 
 h1 {
-  border: 1px solid black;
-  filter:blur(20px);
+  border: 1px solid red;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #bbb;
 }
